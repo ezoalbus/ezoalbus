@@ -2,6 +2,7 @@
 | ---- | ---- |
 |  Name  |  Koshka  |
 |  Qiita  |  [@Koshka](https://qiita.com/Koshka)
+|  AtCoder | [Koshka_tsu](https://atcoder.jp/users/Koshka_tsu)
 
 データサイエンティストとして，主に自然言語処理に関する業務に携わっています．
 
