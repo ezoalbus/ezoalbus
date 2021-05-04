@@ -9,26 +9,25 @@
 
 <br>
 
-<div width="auto" align="left>
-<table>
+<table style="width:100%">
 <tr>
    <th> Name </th>
    <th> Value </th>
 </tr>
 <tr>
    <td> Qiita </td>
-   <td> [@Koshka](https://qiita.com/Koshka) </td>
+   <td> <a href="https://qiita.com/Koshka">@Koshka</a> </td>
 </tr>
 <tr>
    <td> AtCoder </td>
-   <td> [Koshka_tsu](https://atcoder.jp/users/Koshka_tsu) </td>
+   <td> <a href="https://atcoder.jp/users/Koshka_tsu">Koshka_tsu</a> </td>
 </tr>
 <tr>
    <td> Kaggle </td>
-   <td> [Koshka](https://www.kaggle.com/koshkatsu) </td>
+   <td> <a href="https://www.kaggle.com/koshkatsu">Koshka</a> </td>
 </tr>                         
 </table>
-</div>
+
 
 <br>
 
