@@ -9,3 +9,5 @@
 まず，脳死で**毎日草を生やし続けること**が目標（2021/5/2 ~ ）。質は二の次。
 
 2021年6月末までに，緑コーダー(AtCoder)になります。
+
+[![Koshka's GitHub stats](https://github-readme-stats.vercel.app/api?username=koshka-tsu)](https://github.com/koshka-tsu/github-readme-stats)
