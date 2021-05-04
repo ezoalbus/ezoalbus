@@ -1,9 +1,9 @@
-<div style="display: inline;">
+<div style="display: inline;" width="auto">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=koshka-tsu&count_private=true&show_icons=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=koshka-tsu&count_private=true&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koshka-tsu&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koshka-tsu&theme=react" />
 </a>
 </div>
 
