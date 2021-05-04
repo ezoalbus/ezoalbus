@@ -10,7 +10,7 @@
 <br>
 
 <div style="display: block;">
-<table width="400">
+<table width="10000">
 <tr>
    <th> Name </th>
    <th> Value </th>
