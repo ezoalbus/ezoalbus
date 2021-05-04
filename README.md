@@ -14,6 +14,7 @@
 |  Name  |  Koshka  |
 |  Qiita  |  [@Koshka](https://qiita.com/Koshka)
 |  AtCoder | [Koshka_tsu](https://atcoder.jp/users/Koshka_tsu)
+| Kaggle | [Koshka](https://www.kaggle.com/koshkatsu)
 
 <br>
 
