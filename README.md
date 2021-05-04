@@ -11,3 +11,5 @@
 2021年6月末までに，緑コーダー(AtCoder)になります。
 
 [![Koshka's GitHub stats](https://github-readme-stats.vercel.app/api?username=koshka-tsu)](https://github.com/koshka-tsu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koshka-tsu)](https://github.com/koshka-tsu/github-readme-stats)
