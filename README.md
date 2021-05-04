@@ -1,4 +1,4 @@
-<div style="display: inline;" width="auto">
+<div style="display: inline;" width="200%">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=koshka-tsu&count_private=true&show_icons=true&theme=react" />
 </a>
@@ -7,16 +7,11 @@
 </a>
 </div>
 
-
----
-
 |  key  |  value  |
 | ---- | ---- |
 |  Name  |  Koshka  |
 |  Qiita  |  [@Koshka](https://qiita.com/Koshka)
 |  AtCoder | [Koshka_tsu](https://atcoder.jp/users/Koshka_tsu)
-
----
 
 データサイエンティストとして，主に自然言語処理に関する業務に携わっています．
 
