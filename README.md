@@ -7,9 +7,11 @@
   <img align="left" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koshka-tsu&theme=react" />
 </a>
 </div>
+  </div>
 
 <br>
 
+<div style="display: block;">
 <table width="auto">
 <tr>
    <th> Name </th>
@@ -28,7 +30,7 @@
    <td> <a href="https://www.kaggle.com/koshkatsu">Koshka</a> </td>
 </tr>                         
 </table>
-
+</div>
 
 <br>
 
@@ -39,5 +41,3 @@
 
 2021年6月末までに，緑コーダー(AtCoder)になります。
 </p>
-
-</div>
