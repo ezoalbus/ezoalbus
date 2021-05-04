@@ -10,14 +10,24 @@
 <br>
 
 <div width="auto" align="left>
-
-|  key  |  value  |
-| ---- | ---- |
-|  Name  |  Koshka  |
-|  Qiita  |  [@Koshka](https://qiita.com/Koshka)
-|  AtCoder | [Koshka_tsu](https://atcoder.jp/users/Koshka_tsu)
-| Kaggle | [Koshka](https://www.kaggle.com/koshkatsu)
-
+<table>
+<tr>
+   <th> Name </th>
+   <th> Value </th>
+</tr>
+<tr>
+   <td> Qiita </td>
+   <td> [@Koshka](https://qiita.com/Koshka) </td>
+</tr>
+<tr>
+   <td> AtCoder </td>
+   <td> [Koshka_tsu](https://atcoder.jp/users/Koshka_tsu) </td>
+</tr>
+<tr>
+   <td> Kaggle </td>
+   <td> [Koshka](https://www.kaggle.com/koshkatsu) </td>
+</tr>                         
+</table>
 </div>
 
 <br>
