@@ -9,6 +9,7 @@
 
 <br>
 
+<div width="auto" align="left>
 
 |  key  |  value  |
 | ---- | ---- |
@@ -16,6 +17,8 @@
 |  Qiita  |  [@Koshka](https://qiita.com/Koshka)
 |  AtCoder | [Koshka_tsu](https://atcoder.jp/users/Koshka_tsu)
 | Kaggle | [Koshka](https://www.kaggle.com/koshkatsu)
+
+</div>
 
 <br>
 
