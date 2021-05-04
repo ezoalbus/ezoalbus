@@ -9,7 +9,7 @@
 
 <br>
 
-<table style="width:1000%">
+<table style="display: inline-block;" width="auto">
 <tr>
    <th> Name </th>
    <th> Value </th>
