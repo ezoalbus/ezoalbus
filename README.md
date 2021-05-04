@@ -1,5 +1,4 @@
 <div style="display: block;">
-<div style="display: inline-block;" width="auto">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" width="auto" src="https://github-readme-stats.vercel.app/api?username=koshka-tsu&count_private=true&show_icons=true&theme=react" />
 </a>
@@ -7,12 +6,11 @@
   <img align="left" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koshka-tsu&theme=react" />
 </a>
 </div>
-  </div>
 
 <br>
 
 <div style="display: block;">
-<table width="auto">
+<table width="100%">
 <tr>
    <th> Name </th>
    <th> Value </th>
