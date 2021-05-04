@@ -9,7 +9,7 @@
 
 <br>
 
-<table style="width:100% align: left">
+<table style="width:1000%">
 <tr>
    <th> Name </th>
    <th> Value </th>
