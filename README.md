@@ -1,4 +1,4 @@
-<div style="display: inline;" width="auto">
+<div style="display: inline-block;" width="auto">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" width="auto" src="https://github-readme-stats.vercel.app/api?username=koshka-tsu&count_private=true&show_icons=true&theme=react" />
 </a>
@@ -9,7 +9,6 @@
 
 <br>
 
-## Who I am
 
 |  key  |  value  |
 | ---- | ---- |
